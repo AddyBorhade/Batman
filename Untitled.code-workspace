@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../images/thunderbolt"
+		},
+		{
+			"path": "../../../images/Walking Frame"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Thunderstorm Project 31"
+	}
+}
